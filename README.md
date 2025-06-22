@@ -93,3 +93,9 @@ To analyze the **USA Housing dataset** and predict **house prices** using multip
 ---
 
 ## 🗂️ Folder Structure
+USA-Housing-Regression/
+│
+├── USA-Housing.ipynb        # Jupyter notebook with full code and analysis
+├── USA_Housing.csv          # Original dataset
+├── README.md                # Project documentation
+├── requirements.txt         # Python dependencies
