@@ -90,16 +90,4 @@ To analyze the **USA Housing dataset** and predict **house prices** using multip
 - Applied **statistical diagnostics** like VIF and OLS summary
 - Understood the trade-offs between **Ridge**, **Lasso**, and **Linear Regression**
 
----
-
-## 🗂️ Folder Structure
-USA-Housing-Regression/
-│
-
-├── USA-Housing.ipynb                #Jupyter notebook with full code and analysis
-
-├── USA_Housing.csv                  #Original dataset
-
-├── README.md                        #Project documentation
-
-├── requirements.txt                  #Python dependencies
+-------------------------------------
