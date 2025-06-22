@@ -1,6 +1,6 @@
 # 🏠 USA Housing Price Prediction using Linear Regression
 
-Welcome to my data science project focused on predicting housing prices using various regression techniques. This project involves end-to-end data analysis—from cleaning and visualization to machine learning model building and evaluation.
+Welcome to my DATA SCIENCE PROJECT focused on predicting housing prices using various REGRESSION techniques. This project involves end-to-end data analysis—from cleaning and visualization to MACHINE LEARNING model building and evaluation.
 
 ---
 
